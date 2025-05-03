@@ -1,8 +1,8 @@
 # 🫁 3D Modelling and Ablation of Lung Tumour
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)  
-![Status](https://img.shields.io/badge/Project-Completed-success)  
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 ![Medical Imaging](https://img.shields.io/badge/Domain-Medical%20Imaging-blueviolet)
 
 This repository contains the complete undergraduate project work on **3D segmentation, reconstruction, and radiofrequency ablation of lung tumours** using medical imaging data. It involves developing a custom image processing algorithm in Python, validating against gold-standard software like Materialise MIMICS and 3D Slicer, and simulating thermal ablation using COMSOL Multiphysics.
@@ -41,7 +41,7 @@ This repository contains the complete undergraduate project work on **3D segment
 | MIMICS                 | 92%                           |
 | 3D Slicer              | ~89% (manual + time-consuming)|
 
-![Volume Comparison](results/tumour_volume_comparison.png)
+![Volume Comparison](results/statistical_tumour_volume_comparison.png)
 
 ---
 
@@ -49,7 +49,7 @@ This repository contains the complete undergraduate project work on **3D segment
 
 Comparison of tumour surface models for 3 patients across three platforms:
 
-![3D Reconstruction Comparison](results/reconstruction_comparison.png)
+![3D Reconstruction Comparison](results/tumor_reconstruction_comparison.png)
 
 (A) Python Algorithm | (B) MIMICS | (C) 3D Slicer
 
