@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# VSCode or PyCharm settings
+.vscode/
+.idea/
+
+# Test output
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large or generated data files (manual exclusion if needed)
+*.npy
+*.npz
+*.csv
+*.h5
+
+# COMSOL cache or backups
+*.class
+*.mphbin
+*.bak
+
+# MIMICS internal caches (if any)
+*.tmp
+
+# Other
+*.swp
