@@ -41,7 +41,7 @@ This repository contains the complete undergraduate project work on **3D segment
 | MIMICS                 | 92%                           |
 | 3D Slicer              | ~89% (manual + time-consuming)|
 
-![Volume Comparison](results/statistical_tumour_volume_comparison.png)
+![Volume Comparison](results/statistical_tumor_value_comparison.png)
 
 ---
 
